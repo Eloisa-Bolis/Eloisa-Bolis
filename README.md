@@ -9,6 +9,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
