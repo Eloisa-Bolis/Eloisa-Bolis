@@ -6,8 +6,9 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 1543<br>🌷 I'm currently discovering your mother<br>👹 Contact me for: 🔪🔪😈</p>
-<img src="https://i.pinimg.com/originals/de/4c/82/de4c82a2d1e06e9eff207984db324d84.jpg"/>
+<table>
+  <td><p align="left">✨ Creating bugs since 1543<br>🌷 I'm currently discovering your mother<br>👹 Contact me for: 🔪🔪😈</p></td>
+  <td><img src="https://i.pinimg.com/originals/de/4c/82/de4c82a2d1e06e9eff207984db324d84.jpg"/></td>
 
 ###
 
