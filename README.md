@@ -4,11 +4,9 @@
 
 <h2 align="left">About me</h2>
 
-###
 
 <p align="left">✨ Creating bugs since 1543<br>🌷 I'm currently discovering your mother<br>👹 Contact me for: 🔪🔪😈
 
-###
 
 <h2 align="left">I code with</h2>
 
