@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 1543<br>📚 I'm currently learning your mom<br>👹 Contact me for: 🔪🔪😈
+<p align="left">✨ Creating bugs since 1543<br>🌷 I'm currently discovering your mother<br>👹 Contact me for: 🔪🔪😈
 
 ###
 
