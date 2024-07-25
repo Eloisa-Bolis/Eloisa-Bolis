@@ -6,8 +6,14 @@
 
 ###
 
+<table border="0">
+  <td>
   <p align="left">✨ Creating bugs since 1543<br><br>🌷 I'm currently discovering your mother<br><br>👹 Contact me for: 🔪🔪😈</p>
+  </td> 
+  <td>
   <img height="150" align="right" src="https://i.pinimg.com/originals/de/4c/82/de4c82a2d1e06e9eff207984db324d84.jpg"/> 
+  </td>
+</table>  
 
 ###
 
